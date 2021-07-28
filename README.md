@@ -4,3 +4,6 @@
 
 #### <ins>Final robot</ins>
 ![alt text](https://github.com/pawelgates/AI-Robot-for-fire-detection/blob/main/PICS/robot.JPG)
+
+#### <ins>Fire Detection</ins>
+![alt text](https://github.com/pawelgates/AI-Robot-for-fire-detection/blob/main/PICS/fire-detection.png)
